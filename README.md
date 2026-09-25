@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/JuliaSiqueira7">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=520&height=40&lines=Dev+Web;JavaScript+%C2%B7+TypeScript;React.js+%C2%B7+Node.js;Da+interface+ao+servidor" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=3B82F6&center=true&vCenter=true&width=560&height=45&lines=Dev+Web;JavaScript+%C2%B7+TypeScript;React.js+%C2%B7+Node.js;Da+interface+ao+servidor" alt="Typing animation" />
 </a>
 
 <br>
@@ -88,10 +88,10 @@ Sou **Julia Siqueira**, dev web. Trabalho com JavaScript e TypeScript, construin
 
 <div align="center">
   <a href="https://www.linkedin.com/in/julia-siqueira-547ba8428/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/juliasiqueira.j" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0B1120?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
