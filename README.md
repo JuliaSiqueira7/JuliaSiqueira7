@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:10244B,100:1C3A6E&height=220&section=header&text=Julia%20Siqueira&fontSize=46&fontColor=F4F1EA&fontAlignY=38&desc=Dev%20Web%20%E2%98%85%20JavaScript%20%7C%20React%20%7C%20Node&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="./assets/banner-estrelas.svg" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/JuliaSiqueira7">
