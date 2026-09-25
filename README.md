@@ -56,7 +56,10 @@ Transformo interfaces em experiências e ideias em código. Curto tanto deixar u
 
 <br>
 
-## ✶ GitHub Stats
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=1C3A6E" alt="" />
+
+<!-- ═══════════ ESTATÍSTICAS ═══════════ -->
+## `> estatisticas`
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=JuliaSiqueira7&show_icons=true&hide_border=true&bg_color=0B1120&title_color=8FA3C4&icon_color=1C3A6E&text_color=F4F1EA&ring_color=1C3A6E" />
@@ -67,21 +70,25 @@ Transformo interfaces em experiências e ideias em código. Curto tanto deixar u
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuliaSiqueira7&hide_border=true&background=0B1120&stroke=1C3A6E&ring=1C3A6E&fire=8FA3C4&currStreakLabel=F4F1EA&sideLabels=F4F1EA&currStreakNum=F4F1EA&sideNums=F4F1EA&dates=8FA3C4" />
 </div>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=1C3A6E" alt="" />
 
-## ✶ Activity Graph
+<!-- ═══════════ ACTIVITY GRAPH ═══════════ -->
+## `> atividade`
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuliaSiqueira7&bg_color=0B1120&color=8FA3C4&line=1C3A6E&point=F4F1EA&area=true&hide_border=true" width="95%"/>
 </div>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=1C3A6E" alt="" />
 
-## ✶ Trophies
+<!-- ═══════════ TROPHIES ═══════════ -->
+## `> trophies`
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JuliaSiqueira7&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=7" />
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=1C3A6E" alt="" />
 
 <br>
 
