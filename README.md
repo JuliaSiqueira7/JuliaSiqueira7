@@ -88,69 +88,7 @@ Transformo interfaces em experiências e ideias em código. Curto tanto deixar u
 ## ✶ Estrelas Cadentes
 
 <div align="center">
-
-<svg width="100%" height="150" viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="150" fill="#0B1120"/>
-
-  <!-- estrelas fixas piscando -->
-  <g fill="#F4F1EA">
-    <polygon points="0,-5 1.5,-1.7 5,-1.7 2,0.8 3,5 0,2.5 -3,5 -2,0.8 -5,-1.7 -1.5,-1.7" transform="translate(80,30)">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite" begin="0s"/>
-    </polygon>
-    <polygon points="0,-5 1.5,-1.7 5,-1.7 2,0.8 3,5 0,2.5 -3,5 -2,0.8 -5,-1.7 -1.5,-1.7" transform="translate(220,90)">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite" begin="0.6s"/>
-    </polygon>
-    <polygon points="0,-5 1.5,-1.7 5,-1.7 2,0.8 3,5 0,2.5 -3,5 -2,0.8 -5,-1.7 -1.5,-1.7" transform="translate(380,45)">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.1s" repeatCount="indefinite" begin="1.1s"/>
-    </polygon>
-    <polygon points="0,-5 1.5,-1.7 5,-1.7 2,0.8 3,5 0,2.5 -3,5 -2,0.8 -5,-1.7 -1.5,-1.7" transform="translate(560,110)">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.7s" repeatCount="indefinite" begin="0.3s"/>
-    </polygon>
-    <polygon points="0,-5 1.5,-1.7 5,-1.7 2,0.8 3,5 0,2.5 -3,5 -2,0.8 -5,-1.7 -1.5,-1.7" transform="translate(720,25)">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="3.3s" repeatCount="indefinite" begin="1.4s"/>
-    </polygon>
-    <polygon points="0,-5 1.5,-1.7 5,-1.7 2,0.8 3,5 0,2.5 -3,5 -2,0.8 -5,-1.7 -1.5,-1.7" transform="translate(880,95)">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" repeatCount="indefinite" begin="0.8s"/>
-    </polygon>
-    <polygon points="0,-5 1.5,-1.7 5,-1.7 2,0.8 3,5 0,2.5 -3,5 -2,0.8 -5,-1.7 -1.5,-1.7" transform="translate(1020,55)">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.9s" repeatCount="indefinite" begin="0.2s"/>
-    </polygon>
-    <polygon points="0,-5 1.5,-1.7 5,-1.7 2,0.8 3,5 0,2.5 -3,5 -2,0.8 -5,-1.7 -1.5,-1.7" transform="translate(1150,115)">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.3s" repeatCount="indefinite" begin="1.7s"/>
-    </polygon>
-  </g>
-
-  <!-- estrelas cadentes -->
-  <g>
-    <line x1="-40" y1="0" x2="0" y2="0" stroke="#8FA3C4" stroke-width="2" stroke-linecap="round">
-      <animateMotion path="M -60 20 L 1260 -60" dur="3.2s" begin="0s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.75;1" dur="3.2s" begin="0s" repeatCount="indefinite"/>
-    </line>
-    <circle r="2.5" fill="#F4F1EA">
-      <animateMotion path="M -60 20 L 1260 -60" dur="3.2s" begin="0s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.75;1" dur="3.2s" begin="0s" repeatCount="indefinite"/>
-    </circle>
-
-    <line x1="-40" y1="0" x2="0" y2="0" stroke="#1C3A6E" stroke-width="2" stroke-linecap="round">
-      <animateMotion path="M -60 130 L 1260 20" dur="4s" begin="1.6s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.75;1" dur="4s" begin="1.6s" repeatCount="indefinite"/>
-    </line>
-    <circle r="2.5" fill="#F4F1EA">
-      <animateMotion path="M -60 130 L 1260 20" dur="4s" begin="1.6s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.75;1" dur="4s" begin="1.6s" repeatCount="indefinite"/>
-    </circle>
-
-    <line x1="-40" y1="0" x2="0" y2="0" stroke="#8FA3C4" stroke-width="1.5" stroke-linecap="round">
-      <animateMotion path="M -60 70 L 1260 -30" dur="2.6s" begin="0.9s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.75;1" dur="2.6s" begin="0.9s" repeatCount="indefinite"/>
-    </line>
-    <circle r="2" fill="#F4F1EA">
-      <animateMotion path="M -60 70 L 1260 -30" dur="2.6s" begin="0.9s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.75;1" dur="2.6s" begin="0.9s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-</svg>
-
+  <img src="./assets/estrelas-cadentes.svg" width="100%"/>
 </div>
 
 <br>
